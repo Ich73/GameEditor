@@ -1,0 +1,14 @@
+*
+!*/
+!Resources/Forms/*.ui
+!Resources/i18n/*.ts
+!Resources/Images/*.ico
+!Plugins/*.py
+!/.gitignore
+!/LICENSE
+!/README.md
+!/requirements.txt
+!/GameEditor.pyw
+!/GameEditor.spec
+!/MessageBoxes.py
+!/Resources.qrc

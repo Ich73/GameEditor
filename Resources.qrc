@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="Resources/Images">
+		<file alias="icon.ico">Resources/Images/icon.ico</file>
+	</qresource>
+	<qresource prefix="Resources/Forms">
+		<file alias="main-window.ui">Resources/Forms/main-window.ui</file>
+	</qresource>
+	<qresource prefix="Resources/i18n">
+		<file alias="de.qm">Resources/i18n/de.qm</file>
+		<file alias="en.qm">Resources/i18n/en.qm</file>
+		<file alias="qtbase_de.qm">Resources/i18n/qtbase_de.qm</file>
+		<file alias="qtbase_en.qm">Resources/i18n/qtbase_en.qm</file>
+	</qresource>
+</RCC>
